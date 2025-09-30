@@ -1,6 +1,6 @@
 # AI Resume Analyzer
 
-#### Video Demo: [AI_RESUME_ANALYZER](https://drive.google.com/file/d/1DMjKQ54tFEFkB9AYLIiMmEZLRlPflZ4R/view)
+#### Video Demo: https://drive.google.com/file/d/1DMjKQ54tFEFkB9AYLIiMmEZLRlPflZ4R/view
 
 #### Description:
 
